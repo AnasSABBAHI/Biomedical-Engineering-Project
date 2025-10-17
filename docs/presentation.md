@@ -171,13 +171,9 @@ C(x,y=L) = C_a - C_b + C_1(\cos\omega t - 1)
 - Research collaborators
 - Institutional support
 
-**Thank you for your attention!**
-
 ---
 ## References
 
 1. Sapoval et al. (2002) *PNAS*
 2. Felici et al. (2003) *J Appl Physiol*
 3. Weibel (1984) *Pathway for Oxygen*
-
-**Code repository:** github.com/username/acinus-diffusion
