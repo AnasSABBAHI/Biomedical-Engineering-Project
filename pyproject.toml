@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "acinus_diffusion"
+version = "0.1.0"
+description = "Oxygen diffusion modeling in pulmonary acinus"
+authors = [
+    {name = "Biomedical Engineering Group"},
+]
+dependencies = [
+    "numpy>=1.21.0",
+    "scipy>=1.7.0",
+    "matplotlib>=3.5.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
